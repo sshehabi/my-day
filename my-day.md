@@ -8,13 +8,13 @@ This is what I did today!
 * Attended a virtual D&I meeting
 * Listened to a bunch of _The L Word_ podcast episodes
 * Organized samples for sample prep
-* Met with Keith about sample prep needs
-* Learned how to perform mud testing on the 8800
+* Met with other department about sample prep needs
+* Learned how to perform new test method
 * Met with requester to discuss test results
 ***
 ## Home
 ![Laptop](http://lorempixel.com/output/technics-q-c-640-480-3.jpg)
-1. Had to reschedule my acupuncture appointment
+1. Had to reschedule an appointment
 2. Pet the cutest pups in the world
 3. Had my second class with Epicodus online
 ***
