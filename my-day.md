@@ -1,9 +1,11 @@
 ﻿#My Day - August 7, 2019
 This is what I did today!
 ***
-##Work
-![Work is a thing people have to do :/](http://lorempixel.com/output/business-q-c-640-480-7.jpg)
-*Sent out reports for **4 different** test requests!
+## Work
+
+![This is a thing people have to do :/](http://lorempixel.com/output/business-q-c-640-480-7.jpg)
+
+* Sent out reports for **4 different** test requests!
 * Completed _another_ test request
 * Attended a virtual D&I meeting
 * Listened to a bunch of _The L Word_ podcast episodes
@@ -20,5 +22,6 @@ This is what I did today!
 ***
 ## Plans for Later
 ![This is not a pup.](http://lorempixel.com/output/animals-q-c-640-480-10.jpg)
+
 *Pet the cutest pups in the world again
 ***
